@@ -1,5 +1,5 @@
 {
-    "name": "dompdf/dompdf",
+    "name": "forlabs/dompdf",
     "type": "library",
     "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
     "homepage": "https://github.com/dompdf/dompdf",
@@ -28,7 +28,7 @@
         "ext-dom": "*",
         "ext-mbstring": "*",
         "masterminds/html5": "^2.0",
-        "phenx/php-font-lib": ">=0.5.4 <1.0.0",
+        "forlabs/php-font-lib": "*",
         "phenx/php-svg-lib": ">=0.3.3 <1.0.0"
     },
     "require-dev": {
